@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url("../OpenSans/OpenSans-Regular.ttf");
+}
+
+html {
+    font-family: "Open Sans";
+    font-size: 15px;
+}
+
+.card {
+    border: 1px solid rgb(190, 187, 187);
+    border-radius: 6px;
+    margin: 5px
+}
+
+.img {
+    padding: 10px;
+    border: 1px solid rgb(190, 187, 187);
+    margin: 00px
+}
+
+body {
+    display: flex;
+    gap: 20px;
+}
+
+.h2_and_p {
+    padding-left: 10px;
+    border: 1px solid rgb(190, 187, 187);
+    margin: 00px
+}
+
+.first_p {
+    padding-left: 10px;
+    border: 1px solid rgb(190, 187, 187);
+    margin: 00px
+}
+
+.second_p {
+    padding-left: 10px;
+    border: 1px solid rgb(190, 187, 187);
+    margin: 00px
+}
+
+.third_p {
+    padding-left: 10px;
+    border: 1px solid rgb(190, 187, 187);
+    margin: 00px
+}
+
+.links {
+    padding: 10px;
+    padding-left: 10px;
+    border: 1px solid rgb(190, 187, 187);
+    margin: 00px
+}
