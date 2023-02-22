@@ -1,0 +1,10 @@
+section{
+    display: inline-table;
+    height: 550px;
+    width: 100px;
+    text-align: center;
+}
+
+#orange{
+    width: calc(50% /2);
+}
